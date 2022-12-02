@@ -1,0 +1,72 @@
+[
+    {
+    "Unit": 1,
+    "Title": "はじめまして",
+    "Twords": 38,
+    "Words": [
+        {
+        "No":"1",
+        "Expression":"私",
+        "Kana":"わたし",
+        "Romaji":"wa ta shi",
+        "Furigana":"私[わたし]",
+        "English":"I",
+        "Myanmar":"ကျွန်တော်၊ ကျွန်မ"
+        },
+        {
+        "No":"2",
+        "Expression":"貴方",
+        "Kana":"あなた",
+        "Romaji":"a na ta",
+        "Furigana":"貴方[あなた]",
+        "English":"you",
+        "Myanmar":"သင်၊ ခင်ဗျား၊ ရှင်"
+        },
+        {
+        "No":"3",
+        "Expression":"先生",
+        "Kana":"せんせい",
+        "Romaji":"sen se i",
+        "Furigana":"先[せん] 生[せい]",
+        "English":"teacher, instructor (not used when referring to one's own job)",
+        "Myanmar":"ဆရာ, နည်းပြဆရာ (လူတစ်ဦး၏ ကိုယ်ပိုင်အလုပ်ကို ရည်ညွှန်းသည့်အခါ အသုံးပြုသည်မဟုတ်)" 
+        }
+            ]
+    },
+    {
+    "Unit": 2,
+    "Title": "ほんの気持ちです",
+    "Twords": 40,
+    "Words": [
+        {
+        "No":"1",
+        "Expression":"これ",
+        "Kana":"これ",
+        "Romaji":"ko re",
+        "Furigana":"これ",
+        "English":"this (thing here)",
+        "Myanmar":"ဤအရာ၊ ဒီဟာ (မိမိ၏အနီးတွင်ရှိသောအရာ)"
+        },
+        {
+        "No":"2",
+        "Expression":"それ",
+        "Kana":"それ",
+        "Romaji":"so re",
+        "Furigana":"それ",
+        "English":"that (thing near you)",
+        "Myanmar":"ထိုအရာ၊ အဲဒီဟာ (အခြားသူ၏အနီးတွင်ရှိသောအရာ)"
+        },
+        {
+        "No":"3",
+        "Expression":"あれ",
+        "Kana":"あれ",
+        "Romaji":"a re",
+        "Furigana":"あれ",
+        "English":"that (thing over there)",
+        "Myanmar":"ဟိုကအရာ၊ ဟိုဟာ (မိမိနှင့် အခြားသူ၏ အဝေးတွင်ရှိသောအရာ)" 
+        }
+            ]
+    }
+
+        
+]
